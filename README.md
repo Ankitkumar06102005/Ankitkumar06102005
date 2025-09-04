@@ -3,7 +3,7 @@
 🎓 2nd Year BTech (CS–AI) @ AKTU  
 💡 Passionate about **Artificial Intelligence, Data Science, and Web Development**  
 📌 Building projects like **EventLink** (college event portal) & **PathFinder AI** (career guidance app).  
-♥☻ [My portfolio].(https://app.netlify.com/projects/liveportfo/overview)
+♥☻ [My portfolio].(https://liveportfo.netlify.app/))
 
 ---
 
