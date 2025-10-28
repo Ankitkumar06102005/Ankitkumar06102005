@@ -25,18 +25,54 @@
 ---
 
 ### 🧰 Tech Stack
-**Languages:** C++, Python, JavaScript, HTML, CSS  
-**Frameworks:** React.js, Node.js, Express.js, Flask  
-**Databases:** MongoDB, MySQL  
-**AI/ML Tools:** TensorFlow, Scikit-learn, OpenCV  
-**Other Tools:** Git, GitHub, VS Code, Postman, Figma  
+
+<div align="center">
+
+#### 🖥️ Languages  
+<a href="https://isocpp.org/" title="C++"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/></a>
+<a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/></a>
+
+---
+
+#### ⚙️ Frameworks  
+<a href="https://react.dev/" title="React.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/></a>
+<a href="https://nodejs.org/" title="Node.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/></a>
+<a href="https://expressjs.com/" title="Express.js"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50"/></a>
+<a href="https://flask.palletsprojects.com/" title="Flask"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="50" height="50"/></a>
+
+---
+
+#### 🗄️ Databases  
+<a href="https://www.mongodb.com/" title="MongoDB"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/></a>
+
+---
+
+#### 🤖 AI / ML Tools  
+<a href="https://www.tensorflow.org/" title="TensorFlow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/></a>
+<a href="https://scikit-learn.org/" title="Scikit-learn"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50" height="50"/></a>
+<a href="https://opencv.org/" title="OpenCV"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="50" height="50"/></a>
+
+---
+
+#### 🧰 Other Tools  
+<a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/></a>
+<a href="https://github.com/" title="GitHub"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/></a>
+<a href="https://code.visualstudio.com/" title="VS Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/></a>
+<a href="https://www.postman.com/" title="Postman"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50"/></a>
+<a href="https://www.figma.com/" title="Figma"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/></a>
+
+</div>
 
 ---
 
 ### 🏆 Achievements
 - 🥇 **3× Gold Badge** on HackerRank (Problem Solving, Python, C++)  
 - 💪 **100+ LeetCode submissions** and growing  
-- 🧠 Completed multiple certifications (OpenAI Prompt Engineering, CSS from HackerRank, etc.)  
+- 🧠 Completed multiple certifications (OpenAI Prompt Engineering, CSS from HackerRank, etc.)
 
 ---
 
