@@ -1,57 +1,58 @@
-# 👋 Hi, I'm Ankit Kumar Pandey  
+# 👋 Hi, I'm Ankit Kumar!
 
-🎓 2nd Year BTech (CS–AI) @ AKTU  
-💡 Passionate about **Artificial Intelligence, Data Science, and Web Development**  
-📌 Building projects like **EventLink** (college event portal) & **PathFinder AI** (career guidance app).  
-♥☻ [My portfolio].(https://liveportfo.netlify.app/))
-
----
-
-## 🚀 Skills & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+🎓 **B.Tech in Computer Science & Artificial Intelligence** | PSIT Kanpur  
+💻 Passionate about building intelligent systems & scalable web apps  
+🚀 Currently exploring **AI-driven full-stack projects**  
 
 ---
 
-## 🌐 Featured Projects  
-
-### 🔹 [EventLink](https://github.com/ankitkumar06102005/eventlink)  
-📌 A platform for **college events & invitations**.  
-✨ Features: Dashboard, invitations, event tracking.  
-🔗 [Live Demo](https://your-netlify-link.com)  
-
-### 🔹 [PathFinder AI](https://github.com/ankitkumar06102005/pathfinder-ai)  
-📌 An **AI-powered career guidance platform**.  
-✨ Features: Exam insights, AI recommendations, study plans.  
-🔗 [Live Demo](https://your-vercel-link.com)  
+### 🧠 What I Do
+- 🧩 Develop full-stack applications using **React, Node.js, Express & MongoDB**
+- 🤖 Build AI models & integrate **ML/NLP** into real-world projects  
+- 📊 Solve problems on **LeetCode & HackerRank** to sharpen my DSA skills  
+- ⚡ Always exploring ideas that blend **AI + Web + Impact**
 
 ---
 
-## 📊 GitHub Stats  
-
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankitkumar06102005&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar06102005&layout=compact&theme=radical)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankitkumar06102005&theme=radical)  
+### 💼 Featured Projects
+| Project | Description | Tech |
+|----------|--------------|------|
+| [EventLink](https://github.com/Ankitkumar06102005/EventLink) | College event management & invitations platform | MERN Stack |
+| [LegalLens](https://github.com/Ankitkumar06102005/legallens) | AI-powered legal document summarizer | NLP, Python, Flask |
+| [BharatProperty-Portal](https://github.com/Ankitkumar06102005/bharatproperty-portal) | Real estate listing & search portal | React, Express, MongoDB |
+| [Portfolio Website](https://github.com/Ankitkumar06102005/portfolio2) | My personal portfolio showcasing projects & achievements | HTML, CSS, JS |
 
 ---
 
-## 📫 Connect With Me  
-- 💼 [LinkedIn][(https://www.linkedin.com/in/yourlinkedin)  ](https://www.linkedin.com/in/ankit-kumar-84550725b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 📧 Email:ankitsushant9415@gmail.com
--  leetcode:https://leetcode.com/u/1V3cbAf8Gy/
--  hackerrank:https://www.hackerrank.com/profile/Ankitkumar0610
+### 🧰 Tech Stack
+**Languages:** C++, Python, JavaScript, HTML, CSS  
+**Frameworks:** React.js, Node.js, Express.js, Flask  
+**Databases:** MongoDB, MySQL  
+**AI/ML Tools:** TensorFlow, Scikit-learn, OpenCV  
+**Other Tools:** Git, GitHub, VS Code, Postman, Figma  
 
+---
 
-<!---
-Ankitkumar06102005/Ankitkumar06102005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🏆 Achievements
+- 🥇 **3× Gold Badge** on HackerRank (Problem Solving, Python, C++)  
+- 💪 **100+ LeetCode submissions** and growing  
+- 🧠 Completed multiple certifications (OpenAI Prompt Engineering, CSS from HackerRank, etc.)  
+
+---
+
+### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-84550725b/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/1V3cbAf8Gy/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Ankitkumar0610)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link-here.vercel.app/)
+
+---
+
+### ⚙️ GitHub Stats
+![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitkumar06102005&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitkumar06102005&layout=compact&theme=tokyonight)
+
+---
+
+> 💡 *“Building intelligent systems that make everyday tasks smarter, faster, and easier.”*  
+> — Ankit Kumar
