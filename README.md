@@ -13,14 +13,17 @@
 - ⚡ Always exploring ideas that blend **AI + Web + Impact**
 
 ---
-
 ### 💼 Featured Projects
-| Project | Description | Tech |
-|----------|--------------|------|
-| [EventLink](https://github.com/Ankitkumar06102005/EventLink) | College event management & invitations platform | MERN Stack |
-| [LegalLens](https://github.com/Ankitkumar06102005/legallens) | AI-powered legal document summarizer | NLP, Python, Flask |
-| [BharatProperty-Portal](https://github.com/Ankitkumar06102005/bharatproperty-portal) | Real estate listing & search portal | React, Express, MongoDB |
-| [Portfolio Website](https://github.com/Ankitkumar06102005/portfolio2) | My personal portfolio showcasing projects & achievements | HTML, CSS, JS |
+
+| Project | Description | Tech Stack |
+|----------|--------------|-------------|
+| [🎉 **EventLink**](https://github.com/Ankitkumar06102005/EventLink) | College event management & invitations platform | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/> |
+| [⚖️ **LegalLens**](https://github.com/Ankitkumar06102005/legallens) | AI-powered legal document summarizer | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="30"/> |
+| [🏠 **BharatProperty-Portal**](https://github.com/Ankitkumar06102005/bharatproperty-portal) | Real estate listing & search portal | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/> |
+| [🌐 **Portfolio Website**](https://github.com/Ankitkumar06102005/portfolio2) | Personal portfolio showcasing projects & achievements | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/> |
+
+---
+
 
 ---
 
