@@ -88,8 +88,10 @@
 ---
 
 ### ⚙️ GitHub Stats
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankitkumar06102005&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitkumar06102005&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ankitkumar06102005&show_icons=true&theme=tokyonight" alt="Ankit's GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ankitkumar06102005&layout=compact&theme=tokyonight" alt="Top Langs" height="180" />
+</p>
 
 ---
 
