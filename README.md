@@ -22,8 +22,8 @@ I'm a Computer Science & Artificial Intelligence student focused on building **A
 - 💻 Building with **React, Node.js, Express, Flask, MongoDB & MySQL**
 - 🧠 Solving **200+ problems on LeetCode** and continuously improving DSA
 - 🏆 Hackathon finalist with hands-on experience turning ideas into working products
-- 🔬 Student research appointment at **IIT Kanpur**
-- 🌱 Currently working on projects at the intersection of **AI + Web + real-world impact**
+- 🔬 Current **Student Research Associate at IIT Kanpur**
+- 🌱 Building at the intersection of **AI + Web + real-world impact**
 
 ---
 
@@ -39,7 +39,7 @@ I'm a Computer Science & Artificial Intelligence student focused on building **A
 
 ---
 
-## 🧠 What I Work With
+## 🧠 Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -71,43 +71,37 @@ I'm a Computer Science & Artificial Intelligence student focused on building **A
 
 ---
 
-## 🏆 Achievements & Experience
+## 🏆 Achievements
 
-- 🔬 **Student Research Appointment — IIT Kanpur**
+- 🔬 **Student Research Associate — IIT Kanpur**
 - 🏁 **Hackathon Finalist** — built and presented real-world technology solutions
 - 🥇 **3× Gold Badges — HackerRank** in Problem Solving, Python & C++
 - 🧠 **200+ LeetCode problems solved** and actively practicing DSA
-- 🤖 Hands-on work across **Generative AI, ML/NLP, Computer Vision and AI-powered applications**
-- 📜 Completed certifications/coursework including **Oracle Generative AI, Machine Learning & Generative AI, HackerRank CSS**, and other technical certifications
-- 🚀 Exploring **GGAI** and AI-driven product development
+- 📜 Certifications/coursework including **Oracle OCI AI Foundations, Columbia Prompt Engineering**, HackerRank CSS and other technical certifications
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
+<!-- This image is generated automatically by GitHub Actions in this profile repo. -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitkumar06102005&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitkumar06102005&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="./github-metrics.svg" alt="GitHub activity, repositories and language statistics" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankitkumar06102005&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ankitkumar06102005&theme=tokyonight" alt="GitHub Profile Summary" />
+  <a href="https://github.com/Ankitkumar06102005?tab=repositories">View all repositories →</a>
 </p>
 
 ---
 
 ## 📈 Coding Journey
 
-```text
-LeetCode       200+ problems solved
-HackerRank     3× Gold Badge
-GitHub         8 public repositories
-Focus          AI/ML + Full Stack + DSA
-```
+| Platform | Progress |
+|---|---|
+| 🧠 LeetCode | **200+ problems solved** |
+| 🏆 HackerRank | **3× Gold Badges** |
+| 💻 GitHub | **8 repositories** |
+| 🎯 Focus | **AI/ML + Full Stack + DSA** |
 
 ---
 
@@ -117,21 +111,15 @@ Focus          AI/ML + Full Stack + DSA
 - Machine Learning & NLP
 - AI + Full-Stack product development
 - DSA, competitive programming & problem solving
-- Building projects with real-world impact
+- Research-driven AI applications
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in **AI/ML projects, full-stack development, hackathons, research opportunities and collaborations**.
+I'm interested in **AI/ML projects, full-stack development, hackathons, research opportunities and collaborations**.
 
-📫 **LinkedIn:** [Ankit Kumar](https://www.linkedin.com/in/ankit-kumar-84550725b/)
-
-💻 **LeetCode:** [Ankit Kumar](https://leetcode.com/u/1V3cbAf8Gy/)
-
-🏆 **HackerRank:** [Ankitkumar0610](https://www.hackerrank.com/profile/Ankitkumar0610)
-
-🌐 **Portfolio:** [ankitkumar06102005.github.io/portfolio](https://ankitkumar06102005.github.io/portfolio)
+📫 [LinkedIn](https://www.linkedin.com/in/ankit-kumar-84550725b/) · [LeetCode](https://leetcode.com/u/1V3cbAf8Gy/) · [HackerRank](https://www.hackerrank.com/profile/Ankitkumar0610) · [Portfolio](https://ankitkumar06102005.github.io/portfolio)
 
 ---
 
